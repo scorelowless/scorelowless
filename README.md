@@ -3,15 +3,20 @@
 I'm Marek, a 3rd year **Computer Science** student 👨‍💻
 
 I love ✨creative✨ projects and I'm currently working on:
-- **Huffman** encoder and decoder in C++
+- **Huffman** encoder and decoder in C++ 
 - **RISC-V Assembly** to **C** compiler
 - A collection of **algorithms** and **data structures** in C#
 
-## Skills 💪
-- C
-- C++
-- C#
 
+## My skills 💪
+### Programming:
+[![Programming](https://skillicons.dev/icons?i=c,cpp,cs,python,r,matlab,bash)](https://skillicons.dev) 
+### Web:
+[![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
+### Tools, IDEs and environments:
+[![Tools, IDEs and environments](https://skillicons.dev/icons?i=git,github,rider,visualstudio,vscode,obsidian,linux,windows)](https://skillicons.dev)
+### Currently learning:
+[![Currently learning](https://skillicons.dev/icons?i=flutter,rust)](https://skillicons.dev)
 
 
 <!--
