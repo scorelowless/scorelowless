@@ -1,4 +1,18 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm Marek, a 3rd year **Computer Science** student 👨‍💻
+
+I love ✨creative✨ projects and I'm currently working on:
+- **Huffman** encoder and decoder in C++
+- **RISC-V Assembly** to **C** compiler
+- A collection of **algorithms** and **data structures** in C#
+
+## Skills 💪
+- C
+- C++
+- C#
+
+
 
 <!--
 **scorelowless/scorelowless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
