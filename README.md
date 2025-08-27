@@ -15,6 +15,6 @@
 ### Web:
 [![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 ### Tools, IDEs and environments:
-[![Tools, IDEs and environments](https://skillicons.dev/icons?i=git,github,rider,visualstudio,vscode,obsidian,linux,windows)](https://skillicons.dev)
+[![Tools, IDEs and environments](https://skillicons.dev/icons?i=git,github,clion,rider,visualstudio,vscode,obsidian,linux,windows)](https://skillicons.dev)
 ### Currently learning:
 [![Currently learning](https://skillicons.dev/icons?i=flutter,rust)](https://skillicons.dev)
