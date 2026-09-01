@@ -12,7 +12,7 @@
 ### Web:
 [![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 
-## My projects I'm proud of:
+## My projects I'm proud of
 -
 -
 -
