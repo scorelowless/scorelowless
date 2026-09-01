@@ -13,6 +13,6 @@
 [![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 
 ## My projects I'm proud of
--
+- Rust implementation of SQL-like database ➔ [rust-database](https://github.com/scorelowless/rust-database)
 -
 -
