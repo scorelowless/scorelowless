@@ -18,6 +18,6 @@
 - 
 
 ## Other projects I'm slightly less proud of
-- Rust implementation of AVL tree -> [rust-avl](https://github.com/scorelowless/rust-avl)
-- Flutter app for sending messages and files over LAN -> [local-send](https://github.com/scorelowless/local-send)
+- Rust implementation of AVL tree ➔ [rust-avl](https://github.com/scorelowless/rust-avl)
+- Flutter app for sending messages and files over LAN ➔ [local-send](https://github.com/scorelowless/local-send)
 - 
