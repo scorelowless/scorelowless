@@ -16,3 +16,8 @@
 - Rust implementation of SQL-like database ➔ [rust-database](https://github.com/scorelowless/rust-database)
 - Group (4) project for Software Engineering course where we created ride request app ➔ [RoadTripPullUp](https://github.com/Hardodziobiq/RoadTripPullUp)
 - 
+
+## Other projects I'm slightly less proud of
+- Rust implementation of AVL tree -> [rust-avl](https://github.com/scorelowless/rust-avl)
+- Flutter app for sending messages and files over LAN -> [local-send](https://github.com/scorelowless/local-send)
+- 
