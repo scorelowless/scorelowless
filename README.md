@@ -14,5 +14,5 @@
 
 ## My projects I'm proud of
 - Rust implementation of SQL-like database ➔ [rust-database](https://github.com/scorelowless/rust-database)
--
--
+- Group (4) project for Software Engineering course where we created ride request app ➔ [RoadTripPullUp](https://github.com/Hardodziobiq/RoadTripPullUp)
+- 
