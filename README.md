@@ -15,7 +15,7 @@
 ## My projects I'm proud of ✨
 - Rust implementation of SQL-like database ➔ [rust-database](https://github.com/scorelowless/rust-database)
 - Group (4) project for Software Engineering course where we created ride request app ➔ [RoadTripPullUp](https://github.com/Hardodziobiq/RoadTripPullUp)
-- 
+- Leaflet project for showing distortions of the Mercator projection ➔ [geoportal-merkator](https://github.com/scorelowless/geoportal-merkator), [direct link to the website](https://scorelowless.github.io/geoportal-merkator/)
 
 ## Other projects I'm slightly less proud of (but still) ✨
 - Rust implementation of AVL tree ➔ [rust-avl](https://github.com/scorelowless/rust-avl)
