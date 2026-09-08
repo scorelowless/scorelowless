@@ -20,4 +20,5 @@
 ## Other projects I'm slightly less proud of (but still) ✨
 - Rust implementation of AVL tree ➔ [rust-avl](https://github.com/scorelowless/rust-avl)
 - Flutter app for sending messages and files over LAN ➔ [local-send](https://github.com/scorelowless/local-send)
-- C++ compression app based on Huffman encoding -> [cpp-huffman](https://github.com/scorelowless/cpp-huffman)
+- C++ compression app based on Huffman encoding ➔ [cpp-huffman](https://github.com/scorelowless/cpp-huffman)
+- C# app for simulating light shining on surfaces ➔ [csharp-light-simulation](https://github.com/scorelowless/csharp-light-simulation)
