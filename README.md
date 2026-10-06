@@ -13,12 +13,13 @@
 [![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 
 ## My projects I'm proud of ✨
-- Rust implementation of SQL-like database ➔ [rust-database](https://github.com/scorelowless/rust-database)
 - Group (4) project for Software Engineering course where we created ride request app ➔ [RoadTripPullUp](https://github.com/Hardodziobiq/RoadTripPullUp)
-- Leaflet project for showing distortions of the Mercator projection ➔ [geoportal-merkator](https://github.com/scorelowless/geoportal-merkator), [direct link to the website](https://scorelowless.github.io/geoportal-merkator/)
+- C# RPG game focusing on modular development and design patterns ➔ [console-rpg](https://github.com/scorelowless/console-rpg)
+- Rust implementation of SQL-like database ➔ [rust-database](https://github.com/scorelowless/rust-database)
+- Flutter app for sending messages and files over LAN ➔ [local-send](https://github.com/scorelowless/local-send)
 
 ## Other projects I'm slightly less proud of (but still) ✨
 - Rust implementation of AVL tree ➔ [rust-avl](https://github.com/scorelowless/rust-avl)
-- Flutter app for sending messages and files over LAN ➔ [local-send](https://github.com/scorelowless/local-send)
 - C++ compression app based on Huffman encoding ➔ [cpp-huffman](https://github.com/scorelowless/cpp-huffman)
 - C# app for simulating light shining on surfaces ➔ [csharp-light-simulation](https://github.com/scorelowless/csharp-light-simulation)
+- Leaflet project for showing distortions of the Mercator projection ➔ [geoportal-merkator](https://github.com/scorelowless/geoportal-merkator), [direct link to the website](https://scorelowless.github.io/geoportal-merkator/)
