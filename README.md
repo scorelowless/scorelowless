@@ -1,6 +1,6 @@
 # Hi there 👋
 
-👨‍💻 I'm Marek, a 3rd year **Computer Science** student 
+👨‍💻 I'm Marek, **Computer Science** student at **Warsaw University of Technology**, completed 3rd year, currently on a study leave
 
 🙇‍♂️ I love creative projects and I'm currently working on:
 - A mobile app in Kotlin for **managing clothes** ➔ [no link yet]()
