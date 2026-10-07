@@ -6,7 +6,7 @@ Most of my experience comes from university projects, where I get to learn somet
 
 ## My skills
 ### Programming:
-[![Programming](https://skillicons.dev/icons?i=c,cpp,cs,python,rust)](https://skillicons.dev) 
+[![Programming](https://skillicons.dev/icons?i=cs,c,cpp,rust,python,flutter)](https://skillicons.dev) 
 ### Web:
 [![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev) 
 
